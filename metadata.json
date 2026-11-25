@@ -1,0 +1,8 @@
+{
+  "name": "HelpMate AI",
+  "description": "Multilingual agentic AI companion with Google Search, Maps tools, and local alarms and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
